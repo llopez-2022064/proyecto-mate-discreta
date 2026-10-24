@@ -75,4 +75,4 @@ Se evalúan 3! = 6 órdenes. El resultado esperado es B → C → A, con 4 minut
 ![alt text](image-3.png)
 
 ## Complejidad y limitaciones
-Hay n! permutaciones. Evaluar cada una requiere recorrer n tareas. Para 10 tareas se exploran 3 628 800 órdenes, lo que puede tardar.
+Existen n! permutaciones posibles, y evaluar cada una requiere recorrer las n tareas. Con 10 tareas se exploran 3 628 800 órdenes, lo que puede tardar bastante. Por ello, el programa muestra un aviso al inicio que recomienda un máximo de 10 tareas. Se pueden ingresar más, pero el tiempo de ejecución y el consumo de recursos crecen muy rápido.
