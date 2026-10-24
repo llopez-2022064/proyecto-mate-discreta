@@ -1,0 +1,13 @@
+# Carpetas generadas al compilar
+bin/
+obj/
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Paquetes y logs
+packages/
+*.log
